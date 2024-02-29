@@ -1,1 +1,1 @@
-S&P500 data sourced form Wikipedia and used to create a trading algorithm.
+S&P500 data sourced from Wikipedia and used to create a trading algorithm.
